@@ -112,10 +112,6 @@ body *{
     margin-right: 3%;
 }
 
-.margin-top{
-    margin-top: -40px;
-}
-
 .font-size{
     font-size: 20px;
     color: grey;
@@ -209,7 +205,35 @@ body *{
         max-height: 100%;
     }
 
-    #padding-top{
-        padding-top: 40px;
+    .padding{
+        padding: 40px;
+    }
+
+    .paddingg{
+        padding: 40px;
+    }
+
+    .paddinggg{
+        padding: 0 40px 40px;
+    }
+
+    .text3{
+        padding: 0 40px;
+    }
+
+    .text4{
+        justify-content: left;
+        text-align: left;
+        margin: 40px 40px 0px 0px;
+    }
+
+    .tagi{
+        margin: 0;
+        padding: 20px;
+    }
+
+    .text5{
+        margin: 0px 40px 40px 40px;
+        padding: 0;
     }
 }
